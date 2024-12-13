@@ -11,7 +11,7 @@ Open local hard drive and open CMD. Execute command:
 
 ## Install NPM package
 
-Go to root directory and open CMD. Execute command:
+Go to /todo-app/ directory and open CMD. Execute command:
 
 'npm install'
 
@@ -23,7 +23,7 @@ execute this command:
 
 'pip install virtualenv'
 
-Then in root/qaautomation directory, perform command:
+Then perform command:
 
 'python -m venv venv'
 
@@ -42,7 +42,7 @@ Go to root directory and execute:
 
 'npm start'
 
-Then, go to root/qaautomation/tests directory and execute command:
+Then, go to /todo-app/qaautomation/tests directory and execute command:
 
 'pytest test_scenario.py'
 
