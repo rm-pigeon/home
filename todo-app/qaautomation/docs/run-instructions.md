@@ -6,7 +6,7 @@ npm 8.11.0
 
 Open local hard drive and open CMD. Execute command:
 
-'Git clone '
+'Git clone https://github.com/rm-pigeon/home.git'
 
 ## Install NPM package
 
