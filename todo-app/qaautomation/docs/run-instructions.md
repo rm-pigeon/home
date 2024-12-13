@@ -1,5 +1,6 @@
 ## Key requirements
 Python 3.12 or newer
+
 npm 8.11.0
 
 ## Clone repository
