@@ -70,7 +70,7 @@ User should be able to delete Task from the board.
 
 **Steps**:
 
--Click on the Trash icon on the right of Task row
+1.Click on the Trash icon on the right of Task row
 
 **Validation Critieria**:
 
@@ -133,6 +133,7 @@ a
 2.Click "Incomplete" option
 
 b
+
 1.Click on drop-down list on the top-right of the board
 
 2.Click "Completed" option
