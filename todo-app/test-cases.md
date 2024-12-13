@@ -2,25 +2,25 @@
 
 # 1 - Add Task
 
-Description
+**Description**
 User should be able to add task using add button on the top-left of the screen.
 After clicking and filling up the modal, Task should be visible and possible to edit on the main screen.
 
-Prerequisites:
+**Prerequisites**:
 
 -Application opened in the browser
 
-Steps:
+**Steps**:
 
--Click on the "Add Task" button on the top-left
+1.Click on the "Add Task" button on the top-left
 
--Fill the Task title in "Title" input field
+2.Fill the Task title in "Title" input field
 
--Leave status on default value
+3.Leave status on default value
 
--Click "Add Task"
+4.Click "Add Task"
 
-Validation Critieria:
+**Validation Critieria**:
 
 -Task should be visible on the page
 
@@ -29,29 +29,29 @@ Validation Critieria:
 
 # 2 - Update Task
 
-Description
+**Description**
 User should be able to edit Task on the board. Validation should work correctly 
 and status should be possible to change using the dropdown.
 
-Prerequisites:
+**Prerequisites**:
 
 -Previously created Task on the board
 
-Steps:
+**Steps**:
 
--Click on the Pencil Icon on the right of the Task row
+1.Click on the Pencil Icon on the right of the Task row
 
--Delete Task Title
+2.Delete Task Title
 
--Click "Update Task"
+3.Click "Update Task"
 
--Fill different Title than original one
+4.Fill different Title than original one
 
--Click on Status dropdown and change the Status on the list
+5.Click on Status dropdown and change the Status on the list
 
--Click "Update Task"
+6.Click "Update Task"
 
-Validation Critieria:
+**Validation Critieria**:
 
 -Validation should fire up after saving with empty Title field
 
@@ -61,18 +61,18 @@ Validation Critieria:
 
 # 3 - Delete Task
 
-Description
+**Description**
 User should be able to delete Task from the board.
 
-Prerequisites:
+**Prerequisites**:
 
 -Previously created Task on the board
 
-Steps:
+**Steps**:
 
 -Click on the Trash icon on the right of Task row
 
-Validation Critieria
+**Validation Critieria**:
 
 -Task should be successfully deleted from the board
 
@@ -80,28 +80,28 @@ Validation Critieria
 
 # 4 - Change Task Status
 
-Description
+**Description**
 User should be able to change Task Status by clicking on the checkbox on the left of the Task
 
-Prerequisites:
+**Prerequisites**:
 
 -Previously created Task on the board
 
-Steps:
+**Steps**:
 
 a
 
--Click on the checkbox on the left of the Task Title
+1.Click on the checkbox on the left of the Task Title
 
--Click on the pencil Icon on the right of the Task row
+2.Click on the pencil Icon on the right of the Task row
 
 b
 
--Click on the checkbox on the left of the Task Title once again
+1.Click on the checkbox on the left of the Task Title once again
 
--Click on the pencil Icon on the right of the Task row
+2.Click on the pencil Icon on the right of the Task row
 
-Validation Critieria:
+**Validation Critieria**:
 
 a
 
@@ -117,27 +117,27 @@ b
 
 # 5 - Filter Tasks
 
-Description
+**Description**
 User should be able to filter Tasks by their status.
 
-Prerequisites:
+**Prerequisites**:
 
 -At least two Tasks with different statuses
 
-Steps:
+**Steps**:
 
 a
 
--Click on drop-down list on the top-right of the board
+1.Click on drop-down list on the top-right of the board
 
--Click "Incomplete" option
+2.Click "Incomplete" option
 
 b
--Click on drop-down list on the top-right of the board
+1.Click on drop-down list on the top-right of the board
 
--Click "Completed" option
+2.Click "Completed" option
 
-Validation Critieria:
+**Validation Critieria**:
 
 a
 
